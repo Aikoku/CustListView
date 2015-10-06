@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CustListView</string>
+
+    <string-array name="flag">
+        <item>ee</item>
+        <item>ru</item>
+        <item>us</item>
+        <item>de</item>
+        <item>fi</item>
+    </string-array>
+
+    <string-array name="country">
+        <item>Eesti</item>
+        <item>Venemaa</item>
+        <item>Ameerika</item>
+        <item>Saksamaa</item>
+        <item>Somme</item>
+    </string-array>
+
+    <string-array name="capital">
+        <item>Tallinn</item>
+        <item>Moskva</item>
+        <item>Vashington</item>
+        <item>Berlin</item>
+        <item>Helsinki</item>
+    </string-array>
+</resources>
